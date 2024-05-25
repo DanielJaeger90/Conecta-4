@@ -63,4 +63,4 @@ Este proyecto está bajo la Licencia MIT. ¡Siéntete libre de usar y modificar 
 
 ---
 
-**Desarrollado con ❤️ por Daniel jaeger
+Desarrollado con ❤️ por Daniel Jaeger
